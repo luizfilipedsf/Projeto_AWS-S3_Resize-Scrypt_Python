@@ -7,7 +7,7 @@ S3 Resize
 Imaginando um cenário onde temos um website, e nesse website os usuários precisam fazer o upload de imagens, no entanto ela precisa ser realizado pelo site em uma dimensão especifica.
 EX: 128x128
 
-- Função lambda que captura a imagem que o usuário faz o upload e depois converter a imagem para o tamanho que quisermos, deixando a versão original e também deixando uma versão thumbnail (miniatura)
+
 
 
 
